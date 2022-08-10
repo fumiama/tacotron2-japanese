@@ -361,3 +361,13 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# venv folder
+/taconene
+
+# models
+ayachi_nene_2
+waveglow_ayachi_nene
+
+# jupyter
+/.ipynb_checkpoints
