@@ -9,5 +9,5 @@ Unidecode
 pillow
 pyopenjtalk
 janome
-torch==1.12.1
+torch
 tensorboardX
