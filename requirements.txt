@@ -1,5 +1,5 @@
 matplotlib
-numpy
+numpy==1.22.4
 inflect
 librosa
 denoiser
@@ -7,7 +7,7 @@ pysoundfile
 scipy
 Unidecode
 pillow
-pyopenjtalk
+openjtalk>=0.3.0.dev2
 janome
 torch
 tensorboardX
